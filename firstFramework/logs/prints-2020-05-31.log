@@ -1,0 +1,6 @@
+20:38:51.036 [TestNG-tests-2] DEBUG Framework.firstFramework.HomePageTest - email id entered
+20:38:51.142 [TestNG-tests-2] DEBUG Framework.firstFramework.HomePageTest - password entered
+20:38:54.001 [TestNG-tests-2] DEBUG Framework.firstFramework.HomePageTest - login button clicked
+20:54:24.709 [TestNG-tests-3] INFO  Framework.firstFramework.ValidateTitle - driver is initialised
+20:54:24.723 [TestNG-tests-2] INFO  Framework.firstFramework.HomePageTest - driver is initialised
+20:54:34.050 [TestNG-tests-3] INFO  Framework.firstFramework.ValidateTitle - Navigated to home page

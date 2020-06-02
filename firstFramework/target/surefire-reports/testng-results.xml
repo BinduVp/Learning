@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="36291" started-at="2020-05-31T20:38:19 IST" finished-at="2020-05-31T20:38:56 IST">
+    <groups>
+    </groups>
+    <test name="login with different inputs" duration-ms="36291" started-at="2020-05-31T20:38:19 IST" finished-at="2020-05-31T20:38:56 IST">
+      <class name="Framework.firstFramework.HomePageTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Framework.firstFramework.HomePageTest@72ef8d15]" name="initialize" is-config="true" duration-ms="9501" started-at="2020-05-31T20:38:19 IST" finished-at="2020-05-31T20:38:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:Framework.firstFramework.HomePageTest@72ef8d15]" name="basePageNavigation" duration-ms="16201" started-at="2020-05-31T20:38:29 IST" data-provider="GetData" finished-at="2020-05-31T20:38:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="PASS" signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:Framework.firstFramework.HomePageTest@72ef8d15]" name="basePageNavigation" duration-ms="8405" started-at="2020-05-31T20:38:45 IST" data-provider="GetData" finished-at="2020-05-31T20:38:54 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[def@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[def]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:Framework.firstFramework.HomePageTest@72ef8d15]" name="closeDriver" is-config="true" duration-ms="2127" started-at="2020-05-31T20:38:54 IST" finished-at="2020-05-31T20:38:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- Framework.firstFramework.HomePageTest -->
+    </test> <!-- login with different inputs -->
+  </suite> <!-- Suite -->
+</testng-results>

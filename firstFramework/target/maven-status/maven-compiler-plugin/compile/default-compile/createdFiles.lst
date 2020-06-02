@@ -1,0 +1,5 @@
+PageObjects\HomePage.class
+Resources\BaseClass.class
+Framework\firstFramework\App.class
+PageObjects\LoginPage.class
+Resources\ExtentReporterNG.class
